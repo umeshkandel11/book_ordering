@@ -1,0 +1,114 @@
+{
+    "clients": [
+        {
+            "full_name": "umesh kandel",
+            "contact": "84945492543",
+            "email_address": "umesh123@gmail.com"
+        },
+        {
+            "full_name": "dfrgwrgwrg",
+            "contact": "fgfrgrey",
+            "email_address": "rgeergery"
+        },
+        {
+            "full_name": "ashok",
+            "contact": "454545435",
+            "email_address": "ahok123@gmail.com"
+        }
+    ],
+    "items": [
+        {
+            "title": "python programming",
+            "writer": "alice bob",
+            "cost": 200.0
+        },
+        {
+            "title": "ewtrrtrt",
+            "writer": "tertertert",
+            "cost": 34.0
+        },
+        {
+            "title": "c programming",
+            "writer": "kandel kumar",
+            "cost": 100.0
+        }
+    ],
+    "purchases": [],
+    "bills": [
+        {
+            "bill_id": "ffc4616d-0237-4486-b3a5-85b44fa5ef1f",
+            "inventory": {
+                "title": "c programming",
+                "writer": "kandel kumar",
+                "cost": 100.0
+            },
+            "delivery": {
+                "purchase": {
+                    "client": {
+                        "full_name": "ashok",
+                        "contact": "454545435",
+                        "email_address": "ahok123@gmail.com"
+                    },
+                    "inventory": {
+                        "title": "c programming",
+                        "writer": "kandel kumar",
+                        "cost": 100.0
+                    },
+                    "order_id": "e9171b41-82e8-4c4d-8171-556709a3d5ca"
+                },
+                "delivery_date": "2025-01-17",
+                "delivery_charge": 0.0
+            }
+        },
+        {
+            "bill_id": "c5a28b20-9c7b-437c-956c-0e1b15cba304",
+            "inventory": {
+                "title": "c programming",
+                "writer": "kandel kumar",
+                "cost": 100.0
+            },
+            "delivery": {
+                "purchase": {
+                    "client": {
+                        "full_name": "ashok",
+                        "contact": "454545435",
+                        "email_address": "ahok123@gmail.com"
+                    },
+                    "inventory": {
+                        "title": "c programming",
+                        "writer": "kandel kumar",
+                        "cost": 100.0
+                    },
+                    "order_id": "e9171b41-82e8-4c4d-8171-556709a3d5ca"
+                },
+                "delivery_date": "2025-01-17",
+                "delivery_charge": 4.2
+            }
+        },
+        {
+            "bill_id": "77344f9e-ab58-40da-a06d-19387ca6273b",
+            "inventory": {
+                "title": "c programming",
+                "writer": "kandel kumar",
+                "cost": 100.0
+            },
+            "delivery": {
+                "purchase": {
+                    "client": {
+                        "full_name": "ashok",
+                        "contact": "454545435",
+                        "email_address": "ahok123@gmail.com"
+                    },
+                    "inventory": {
+                        "title": "c programming",
+                        "writer": "kandel kumar",
+                        "cost": 100.0
+                    },
+                    "order_id": "e9171b41-82e8-4c4d-8171-556709a3d5ca"
+                },
+                "delivery_date": "2025-01-17",
+                "delivery_charge": 0.0
+            }
+        }
+    ]
+}

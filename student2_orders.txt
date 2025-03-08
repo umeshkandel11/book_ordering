@@ -1,0 +1,33 @@
+Bill ID: ffc4616d-0237-4486-b3a5-85b44fa5ef1f
+Client: ashok
+Contact: 454545435
+Email: ahok123@gmail.com
+Book Title: c programming
+Writer: kandel kumar
+Cost: 100.0
+Delivery Date: 2025-01-17
+Delivery Charge: 0.0
+Total Amount: 100.0
+
+Bill ID: c5a28b20-9c7b-437c-956c-0e1b15cba304
+Client: ashok
+Contact: 454545435
+Email: ahok123@gmail.com
+Book Title: c programming
+Writer: kandel kumar
+Cost: 100.0
+Delivery Date: 2025-01-17
+Delivery Charge: 4.2
+Total Amount: 104.2
+
+Bill ID: 77344f9e-ab58-40da-a06d-19387ca6273b
+Client: ashok
+Contact: 454545435
+Email: ahok123@gmail.com
+Book Title: c programming
+Writer: kandel kumar
+Cost: 100.0
+Delivery Date: 2025-01-17
+Delivery Charge: 0.0
+Total Amount: 100.0
+
